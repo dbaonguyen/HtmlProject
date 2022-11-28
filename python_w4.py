@@ -27,4 +27,5 @@ for i in range(300):
     size = size + 10
     tito.forward(10)
     tito.right(18)
+print("Hello world")
 win.exitonclick()
